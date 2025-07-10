@@ -8,6 +8,7 @@ Specifically, your document should include:
 IAM solution designs: Provide a comprehensive outline of your IAM solutions for both user lifecycle management and access control mechanisms. Explain how these solutions will be implemented and the technologies that will be utilised. Alignment with business processes: Describe how your IAM solutions align with TechCorp's existing business processes. Highlight how they will streamline operations and contribute to increased efficiency. Alignment with business objectives: Discuss how your solutions support TechCorp's broader business objectives. Explain how they will enhance security, improve the user experience, and contribute to TechCorp's competitive edge in the technology industry. Rationale: Provide a clear rationale for each aspect of your IAM solutions. Explain why you have chosen specific approaches and technologies. Ensure that your document is well-structured, professionally presented, and contains all the necessary details to clearly convey your proposed IAM solutions and their alignment with TechCorp's business processes and objectives.
 
 Supporting Material
+
 TechCorp's enterprise requirements TechCorp operates in over 100 countries and employs more than 150,000 people. As part of its ongoing digital transformation journey, TechCorp seeks to enhance their cybersecurity by improving IAM solutions.
 
 Enhancing user lifecycle management:
@@ -22,6 +23,8 @@ TechCorp's digital transformation involves the deployment of new software system
 
 Your task as an IAM developer is to design IAM solutions that directly address these two focus areas. Your solutions should align with TechCorp's broader business objectives of maintaining a competitive edge in the technology industry while ensuring the security and efficiency of their digital operations.
 
+IAM SOLUTION DESIGN DOCUMENT
+[IAM Solution Designs.pdf](https://github.com/user-attachments/files/21166566/IAM.Solution.Designs.pdf)
 
 
 
